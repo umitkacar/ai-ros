@@ -6,5 +6,7 @@ NVIDIA Jarvis is an application framework for multimodal conversational AI servi
 
 https://developer.nvidia.com/nvidia-jarvis
 
+https://docs.nvidia.com/metropolis/TLT/tlt-user-guide/text/object_detection/index.html
+
 
 RQT Diagrams
